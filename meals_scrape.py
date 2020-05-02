@@ -26,6 +26,7 @@ with open("Telegram-Super_Família_ICMC.csv", encoding="UTF-8") as f:
 
         content = "".join([s for s in content if s])
         content = content.replace("ª", "ã")
+        content = content.replace("Ø", "ê")
         content = content.replace(".", "")
         content = content.replace(",", "")
         # content = content.replace(":", "")
