@@ -1,7 +1,6 @@
-date,mealType,main,vegetarian,side,dessert,fruit
 29/03/2016,Jantar,Hambúrguer,hambúrguer de pvt,Purê de batata,doce de banana,laranja
-30/03/2016,Jantar,Steak de frango,pvt ao vinagrete,Creme de milho,flan de baunilha,maçã
 30/03/2016,Almoço,Copa lombo ao molho de limão,torta de pvt,Farofa simples,arroz doce,banana
+30/03/2016,Jantar,Steak de frango,pvt ao vinagrete,Creme de milho,flan de baunilha,maçã
 31/03/2016,Almoço,Jardineira de carne moida,pvt com azeitonas,Acelga ao shoyu,gelatina,laranja
 31/03/2016,Jantar,Strogonoff de carne,pvt ao molho de cogumelos,Batata palha,pudim de caramelo,banana
 01/04/2016,Almoço,Filé de frango grelhado ao molho shoyu,pvt rica,Repolho alemão com ervilha,bananada,maçã
@@ -20,8 +19,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 12/04/2016,Jantar,Escondidinho de Carne Moída,PVT com Azeitona,Repolho Refogado,Doce de Goiabada,Banana
 13/04/2016,Almoço,Lagarto Assado ao Molho Escuro,PVT com Mandioca,Polenta Cremosa,Arroz doce,Caqui
 13/04/2016,Jantar,Bisteca Suína,PVT com Couve Flor,Farofa Rica,Curau,Abacaxi
-14/04/2016,Jantar,Strogonoff de Carne,PVT Alemão,Batata Palha,Sagú,Mamão
 14/04/2016,Almoço,Frango Xadrez,Xadrez de PVT,Acelga Refogada,Doce de Leite,Laranja
+14/04/2016,Jantar,Strogonoff de Carne,PVT Alemão,Batata Palha,Sagú,Mamão
 18/04/2016,Almoço,Kibe Assado,PVT com Azeitona,Creme de Espinafre,Pé de Moleque,Laranja
 18/04/2016,Jantar,Fricassê de Frango,PVT Alemão,Cenoura Refogada,Pudim de Chocolate,Abacaxi
 19/04/2016,Almoço,Jardineira de Carne Moída,Jardineira de PVT,Polenta,Gelatina de Uva,Mamão
@@ -61,8 +60,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 16/05/2016,Jantar,Iscas Grelhadas ao molho Shoyu,PVT Rico,Polenta Cremosa,Gelatina Limão,banana
 17/05/2016,Almoço,Almondega ao Sugo,PVT Caipira,Purê de Batata,Doce de Leite,Melancia
 17/05/2016,Jantar,Cupim Assado,PVT Alemão,Chuchu Refogado,Flan de Baunilha,Ponkan
-18/05/2016,Jantar,Copa Lombo ao molho Agridoce,PVT ao Vinagrete,Macarrão alho e óleo,Arroz Doce,Abacaxi
 18/05/2016,Almoço,Bife Acebolado,PVT com Mandioca,Acelga Refogada,Pudim de Chocolate,Banana
+18/05/2016,Jantar,Copa Lombo ao molho Agridoce,PVT ao Vinagrete,Macarrão alho e óleo,Arroz Doce,Abacaxi
 19/05/2016,Almoço,Jardineira de Carne moída,PVT com jardineira de legumes,Polenta Cremosa,Flan de Papaya,Goiaba
 19/05/2016,Jantar,Strogonoff de Carne,Strogonoff de PVT,Batata Palha,Gelatina de Morango,Caqui
 20/05/2016,Almoço,Lagarto ao Molho Madeira,PVT Alemão,Farofa Simples,Gelatina de framboesa,Laranja
@@ -94,8 +93,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 13/06/2016,Jantar,Lagarto Acebolado,PVT rico,Farofa Rica,Gelatina de limão,banana
 14/06/2016,Almoço,Fricassé de Frango,PVT com azeitonas,Batata palha,Flan de Baunilha,Laranja
 14/06/2016,Jantar,Carne de Panela,Ovo cozido,Creme de milho,Doce de leite,Caqui
-15/06/2016,Jantar,Peixada com molho vermelho,PVT caipira,Cenoura Sautê,Gelatina de laranja,Melancia
 15/06/2016,Almoço,Carne moída ao molho vermelho,PVT com Vagem,Escarola refogada,Paçoca,Mamão
+15/06/2016,Jantar,Peixada com molho vermelho,PVT caipira,Cenoura Sautê,Gelatina de laranja,Melancia
 16/06/2016,Almoço,Cubos Acebolado,PVT gratinado,Polenta mole,Pudim de Chocolate,Caqui
 16/06/2016,Jantar,Sobrecoxa assada,Almondega de PVT,Caldo de ervilha,Flan de Baunilha,Laranja
 17/06/2016,Almoço,Bife Acebolado,PVT com brócolis,Repolho refogado ao molho de mostarda,Doce de leite c amendoim,Ponkan
@@ -316,8 +315,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 25/01/2017,Jantar,Bife ao molho barbecue,PVT com cogumelo,Berinjela de forno,Torrone,Laranja
 30/01/2017,Almoço,Jardineira de carne moída,Jardineira de PVT,Polenta cremosa,Paçoca,Maçã
 30/01/2017,Jantar,Frango assado,PVT com mandioca,Creme de milho,Doce de banana,Laranja
-06/02/2017,Jantar,Bife ao molho de ervilha,PVT com mandioquinha,Virado de abobrinha,Doce de abóbora,Maçã
 06/02/2017,Almoço,Salsicha ao sugo,PVT com tomate,Purê de batatas,Doce de goiaba,Banana
+06/02/2017,Jantar,Bife ao molho de ervilha,PVT com mandioquinha,Virado de abobrinha,Doce de abóbora,Maçã
 24/02/2017,Almoço,Lasanha ao sugo,Lasanha de berinjela,Legumes refogado,Sorvete de creme,banana
 03/03/2017,Almoço,Filé de coxa assado,PVT com couve flor,Escarola refogada,Gelatina de abacaxi,Mamão
 04/03/2017,Almoço,Filé de frango grelhado,PVT Pizzaiolo,Batata Corada,Sagu,Melão
@@ -329,8 +328,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 09/03/2017,Almoço,Frango Xadrez,Xadrez de PVT,Virado de couve,Arroz doce,Banana
 09/03/2017,Jantar,Bife ao molho argentino,Ovo frito,Batata doce corada,Gelatina de uva,Maçã
 10/03/2017,Almoço,Hambúrguer ao sugo,Hambúrguer de PVT,Macarrão,Mousse de chocolate,Melancia
-13/03/2017,Jantar,Frango assado,Jardineira de PVT,Abobrinha refogada,Dan top,Laranja
 13/03/2017,Almoço,Bife grelhado,Ovo cozido,Mandioca sautê,Doce de leite,Mamão
+13/03/2017,Jantar,Frango assado,Jardineira de PVT,Abobrinha refogada,Dan top,Laranja
 14/03/2017,Almoço,Fricassê de frango,Fricassê de PVT,Cenoura sautê,Gelatina de morango,Mexerica
 14/03/2017,Jantar,Picadinho à brasileira,PVT com cogumelo,Polenta cremosa,Mousse de maracujá,Maçã
 15/03/2017,Almoço,Salsicha ao sugo,PVT ao vinagrete,Purê de batatas,Sagu,Banana
@@ -379,8 +378,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 12/04/2017,Jantar,Carne de panela,Bife de PVT,Legumes refogados,Flan de baunilha,Melão
 13/04/2017,Almoço,Jardineira de carne moída,Jardineira de PVT,Abóbora à italiana,Curau,Ponkan
 13/04/2017,Jantar,File de frango ao molho primavera,PVT ao vinagrete,Polenta cremosa,Mousse de maracujá,Melancia
-17/04/2017,Jantar,Frango assado,PVT com cogumelo,Macarrão ao sugo,Doce de leite,Laranja
 17/04/2017,Almoço,Picadinho de carne com mandioca,PVT ao vinagrete,Polenta cremosa,Doce de goiaba,Maçã
+17/04/2017,Jantar,Frango assado,PVT com cogumelo,Macarrão ao sugo,Doce de leite,Laranja
 18/04/2017,Almoço,Fricassé de frango,Ovo cozido,Batata palha,Gelatina de morango,Melancia
 18/04/2017,Jantar,Bife grelhado ao molho roty,Xadrez de PVT,Virado de acelga,Curau,Melão
 19/04/2017,Almoço,Bife ao molho especial,Escondidinho de PVT,Nhoque,Bombom sonho de valsa,Banana
@@ -551,8 +550,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 11/08/2017,Almoço,Filé de Frango Grelhado,PVT com Cogumelo,Abobrinha Refogada,Bananada,Melão
 11/08/2017,Jantar,Bife ao Molho Roty,Lasanha de PVT com Queijo,Virado de Acelga,Pudim de Coco com Goiabada,Mamão
 12/08/2017,Almoço,Bife de Panela,PVT Refogado,Batata Corada,Manjar com Calda,Melancia
-16/08/2017,Jantar,Strogonofe de Frango,Strogonofe de PVT,Batata Sautê,Sorvete de Flocos,Banana
 16/08/2017,Almoço,Bife ao Molho Especial,Canelone de PVT com Queijo,Nhoque,Goiabada,Laranja
+16/08/2017,Jantar,Strogonofe de Frango,Strogonofe de PVT,Batata Sautê,Sorvete de Flocos,Banana
 17/08/2017,Almoço,Fricassê de Frango,Fricassê de PVT,Batata Palha,Delicaxi,Mamão
 17/08/2017,Jantar,Salsicha ao Sugo,PVT com Azeitona,Macarrão Alho e Óleo,Curau,Melancia
 18/08/2017,Almoço,Peixada com Leite de Coco,Ovo Frito,Brócolis Refogado,Sagu,Banana
@@ -573,8 +572,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 28/08/2017,Jantar,Lingüiça Toscana,Quibe de PVT,Mandioca Temperada,Maxi Goiabinha,Maçã
 29/08/2017,Almoço,Iscas de Frango com Molho de Mostarda,PVT com Brócolis,Purê Misto,Pudim de Caramelo,Melancia
 29/08/2017,Jantar,Carne de Panela com Batata,PVT com Champignon,Farofa Rica,Gelatina de Abacaxi,Laranja
-30/08/2017,Jantar,Fricassê de Frango,Fricassê de PVT,Batata Sautê,Flan de Papaya,Melão
 30/08/2017,Almoço,Jardineira de Carne Moída,Quibe de PVT,Abobrinha à Italiana,Yogurte,Laranja
+30/08/2017,Jantar,Fricassê de Frango,Fricassê de PVT,Batata Sautê,Flan de Papaya,Melão
 31/08/2017,Almoço,Lagarto ao Molho Madeira,Berinjela Recheada de PVT com Queijo,Macarrão ao Sugo,Arroz Doce,Maçã
 31/08/2017,Jantar,Panqueca de Carne,Panqueca de PVT,Repolho Refogado,Mousse de Maracujá,Banana
 01/09/2017,Almoço,Bife ao Molho Primavera,Lasanha de PVT com Queijo,Escarola Refogada,Sorvete de Chocolate,Melão
@@ -693,8 +692,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 24/11/2017,Almoço,Carne em Cubos ao Molho Roty,PVT Alemão,abobrinha Refogada,Bolo,Mamão
 24/11/2017,Jantar,Lingüiça Toscana Assada,Almôndegas de PVT,Cenoura com Vagem,Gelatina de Cereja,Maçã
 25/11/2017,Almoço,Frango Assado,PVT com Azeitonas,Farofa Rica,Arroz Doce,Abacaxi
-27/11/2017,Jantar,Iscas Bovinas ao Molho Madeira,PVT com Azeitonas,Virado de Acelga,Pé de Moleque,Mamão
 27/11/2017,Almoço,Bife de Alcatra ao Molho champignon,PVT com Mandioquinha,Berinjela a Moda Indiana,Max Chocolate,Melão
+27/11/2017,Jantar,Iscas Bovinas ao Molho Madeira,PVT com Azeitonas,Virado de Acelga,Pé de Moleque,Mamão
 28/11/2017,Almoço,Sobrecoxa de Frango Assada,Almôndega de PVT,Macarrão a Primavera,Yogurte,Melancia
 28/11/2017,Jantar,Strogonofe de Carne,Strogonofe de PVT,Batata Palha,Brigadeirão,Banana
 29/11/2017,Almoço,Carne em Cubos com Batata,Ovos Fritos,Acelga na Mostarda,bolo,Maçã
@@ -753,8 +752,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 07/02/2018,Almoço,Bife ao molho madeira,Rondelli de queijo com molho de PVT,Cenoura com ervilha,Gelatina de uva,Maçã
 07/02/2018,Jantar,Frango grelhado ao molho pizzaiolo,PVT pizzaiolo,Berinjela à moda indiana,Sorvete de creme,Laranja
 08/02/2018,Almoço,Pernil ao molho de abacaxi,PVT com moyashi,Farofa simples,Brigadeirão,Laranja
-09/02/2018,Jantar,Bife grelhado,Omelete de forno,Repolho refogado,Iogurte de morango,Melão
 09/02/2018,Almoço,Iscas ao molho chinesa,PVT ao molho chinesa,Macarrão ao alho e óleo,Arroz doce,Melancia
+09/02/2018,Jantar,Bife grelhado,Omelete de forno,Repolho refogado,Iogurte de morango,Melão
 15/02/2018,Almoço,Strogonofe de carne,Strogonofe de PVT,Batata Palha,Sorvete de creme,Maçã
 15/02/2018,Jantar,Pernil acebolado,PVT com cogumelo,Mandioca Temperada,Bolinho,Melancia
 16/02/2018,Almoço,Hamburguer ao molho de ervas,Hamburguer de PVT,Macarrão ao alho e óleo,Manjar com calda de ameixa,Melão
@@ -788,8 +787,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 10/03/2018,Almoço,Carne em cubos ao molho roty,PVT com vagem e batata,Quibebe de abóbora,Curau,Abacaxi
 12/03/2018,Almoço,Salsicha ao sugo,PVT ao vinagrete,Purê de batatas,Barra de cereal,Mamão
 12/03/2018,Jantar,Bife grelhado,Jardineira de legumes com PVT,Ratattoule,Sorvete de chocolate,Banana
-13/03/2018,Jantar,Frango assado,Rondelli de queijo com molho de PVT,Berinjela com passas,Mousse de maracujá,Melão
 13/03/2018,Almoço,Lasanha,Lasanha de PVT,Brócolis com cenoura,Brigadeirão,Laranja
+13/03/2018,Jantar,Frango assado,Rondelli de queijo com molho de PVT,Berinjela com passas,Mousse de maracujá,Melão
 14/03/2018,Almoço,Bife grelhado ao molho de cebola,PVT com moyashi,Creme de milho,Bolinho de laranja,Melancia
 14/03/2018,Jantar,Pernil ao molho de abacaxi,PVT com cogumelo,Farofa simples,Iogurte de morango,Maçã
 15/03/2018,Almoço,Iscas de frango ao molho ferrugem,PVT rico,Repolho refogado com tomate,Pudim de baunilha,Banana
@@ -859,8 +858,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 02/05/2018,Jantar,Lingüiça toscana com molho de vinagrete,PVT c azeitonas,Mandioca temperada,Doce de leite,Mamão
 03/05/2018,Almoço,Strogonoff de carne,Strogonofe de PVT,Batata Palha,Sagu de abacaxi,Laranja
 03/05/2018,Jantar,Filé de frango com molho de mostarda,PVT com brócolis,Berinjela à moda indiana,Sorvete de creme,Mexerica
-04/05/2018,Jantar,Carne de panela,PVT com ovos,Nhoque ao sugo,Gelatina de uva,Melancia
 04/05/2018,Almoço,Frango assado,Almôndega de PVT,Abobrinha à pizzaiolo,Pudim de Maria mole,Banana
+04/05/2018,Jantar,Carne de panela,PVT com ovos,Nhoque ao sugo,Gelatina de uva,Melancia
 05/05/2018,Almoço,Lagarto assado ao molho roty,PVT com vagem,Couve flor com pimentões,Iogurte,Melão
 07/05/2018,Almoço,Pernil ao molho barbecue,Jardineira de legumes com PVT,Farofa rica,Bananada,Laranja
 07/05/2018,Jantar,Frango Assado,Bife de PVT,Quiabo ensopado,Mini bolo,Maçã
@@ -955,8 +954,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 12/07/2018,Almoço,Escondidinho de carne moída,Escondidinho de PVT,Escarola refogada,Mini bolo,Melancia
 17/07/2018,Almoço,Quibe de Assadeira,Quibe de PVT,Creme de Ervilha,Manjar com Calda,Ponkan
 18/07/2018,Jantar,Bife Grelhado com Molho Especial,Bife de PVT,Vagem com Milho,Maxi Goiabinha,Ponkan
-19/07/2018,Jantar,Lasanha,Lasanha de PVT,Abobrinha com Salsa,Pé de Moleque,Banana
 19/07/2018,Almoço,Feijoada,Feijoada Vegetariana,Couve ao Alho,Mousse de Maracujá,Melão
+19/07/2018,Jantar,Lasanha,Lasanha de PVT,Abobrinha com Salsa,Pé de Moleque,Banana
 23/07/2018,Almoço,Bife Grelhado com Molho de Champignon,Canelone de Queijo,Cenoura Sautè,Doce de Leite,Banana
 23/07/2018,Jantar,Lingüiça Toscana,Berinjela com Ricota e Tomate,Virado de Abobrinha com Milho,Pé de Moleque,Mamão
 24/07/2018,Almoço,Peixe com Molho à Portuguesa,Ovo Frito,Brócolis ao Alho,Sorvete de Abacaxi,Maçã
@@ -1014,8 +1013,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 01/09/2018,Almoço,Pernil acebolado,Ovo cozido,Polenta,Pudim de Maria mole,Abacaxi
 03/09/2018,Almoço,Picadinho à brasileira,Jardineira de PVT,Farofa rica,Bananada,Laranja
 03/09/2018,Jantar,Fricassé de frango,Fricassé de PVT,Batata palha,Doce de leite,Melão
-04/09/2018,Jantar,Carne de panela ao molho argentino,Ovo frito,Abóbora refogada,Sagu,Melancia
 04/09/2018,Almoço,Pernil acebolado com molho barbecue,Puchero,vegetariano Couve refogada,Sorvete de creme,Banana
+04/09/2018,Jantar,Carne de panela ao molho argentino,Ovo frito,Abóbora refogada,Sagu,Melancia
 05/09/2018,Almoço,Frango ao molho primavera,Yakissoba vegetariano,Berinjela de forno,Gelatina de cereja,Abacaxi
 05/09/2018,Jantar,Bife ao molho especial,Canelloni de queijo c PVT,Mandioca sautê,Chocolate ao leite,Mamão
 06/09/2018,Almoço,Isca de carne ao molho especial,Cassoulet vegetariano,Legumes saute,Iogurte,Melancia
@@ -1101,8 +1100,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 31/10/2018,Jantar,Iscas ao molho de champignon,Abobrinha c manjericão,Batata corada,Bananada,Laranja
 01/11/2018,Almoço,Bife ao molho especial,Almôndega de PVT,Polenta cremosa,Goiabada,Abacaxi
 01/11/2018,Jantar,Panqueca de carne moída,Panqueca de PVT,Chuchu com azeitona,Mini bolo,Banana
-05/11/2018,Jantar,Frango assado,Fricassê de PVT,Creme de milho,Maxi chocolate,Mamão
 05/11/2018,Almoço,Carne moída ao sugo,Grão de bico à indiana,Purê de Batata,Doce de banana,Laranja
+05/11/2018,Jantar,Frango assado,Fricassê de PVT,Creme de milho,Maxi chocolate,Mamão
 06/11/2018,Almoço,Pernil ao molho barbecue,Almôndega de PVT,Farofa rica,Sorvete de chocolate,Maçã
 06/11/2018,Jantar,Escondidinho de carne moída,Escondidinho de PVT,Repolho refogado,Gelatina de uva,Banana
 07/11/2018,Almoço,Bife grelhado ao molho roty,Lasanha de PVT,Chuchu refogado,Goiabada,Mamão
@@ -1129,8 +1128,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 23/11/2018,Almoço,Carne de panela ao molho roty,Rondelle de queijo,Purê de batatas,Mini bolo,Melancia
 23/11/2018,Jantar,Linguiça toscana,Quibe de PVT,Legumes saute,Gelatina de cereja,Maçã
 24/11/2018,Almoço,Frango assado,PVT com azeitonas,Farofa rica,Arroz doce,Abacaxi
-26/11/2018,Jantar,Carne de panela,PVT c mandioquinha,Acelga com shoyo,Pé de moleque,Mamão
 26/11/2018,Almoço,Bife grelhado ao molho de champignon,Bife de PVT,Berinjela de forno,Maxi chocolate,Banana
+26/11/2018,Jantar,Carne de panela,PVT c mandioquinha,Acelga com shoyo,Pé de moleque,Mamão
 27/11/2018,Almoço,Frango assado,Panqueca de PVT,Polenta com queijo,Iogurte,Melancia
 27/11/2018,Jantar,Estrogonofe de carne,Estrogonofe de PVT,Batata palha,Brigadeirão,Melão
 28/11/2018,Almoço,Carne em cubos com batatas,Cubos de PVT c batata,Macarrão ao molho branco,Sorvete de flocos,Maçã
@@ -1190,8 +1189,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 17/01/2019,Almoço,Bife ao molho de ervilha,Omelete de forno,Nhoque ao sugo,Barra de cereal,Maçã
 24/01/2019,Almoço,Estrogonofe de frango,Estrogonofe de PVT,Batata palha,Mousse de maracujá,Melancia
 24/01/2019,Jantar,Bife ao molho de alho poró,Rondelli de PVT,Berinjela de forno,Sorvete de chocolate,Banana
-25/01/2019,Jantar,Carne em cubos ao molho Roty,Goulash vegetariano,Quibebe de abóbora,Doce de leite,Melancia
 25/01/2019,Almoço,Escondidinho de carne,Escondidinho de PVT,Jardineira de legumes,Pudim de baunilha,Mamão
+25/01/2019,Jantar,Carne em cubos ao molho Roty,Goulash vegetariano,Quibebe de abóbora,Doce de leite,Melancia
 26/01/2019,Almoço,Frango assado,Omelete de queijo,Creme de milho,Barra de cereal,Melão
 28/01/2019,Almoço,Frango assado,Quibe de PVT,Chuchu com azeitonas,Goiabada,Mamão
 28/01/2019,Jantar,Estrogonofe de carne,Estrogonofe de legumes,Batata Palha,Maxi chocolate,Melão
@@ -1397,15 +1396,15 @@ date,mealType,main,vegetarian,side,dessert,fruit
 12/06/2019,Jantar,Filé de Frango Acebolado,Omelete de Espinafre,Creme de Milho,Mouse,Abacaxi
 13/06/2019,Almoço,Isca de Carne ao Molho Argentino,Bife e PVT,Macarrão à Primavera,Barra de cereal,Banana
 13/06/2019,Jantar,Bife ao Molho Roty,Rondelli com PVT e Queijo ao Molho Rosê,Couve Flor com Pimentão,Pudim de Maria Mole,Mamão
-14/06/2019,Jantar,Panqueca com Carne,Panqueca de PVT,Repolho Refogado,Torrone,Melão
 14/06/2019,Almoço,Estrogonofe de Carne,Estrogonofe de Legumes,Batata Palha,Brigadeirão,Melancia
+14/06/2019,Jantar,Panqueca com Carne,Panqueca de PVT,Repolho Refogado,Torrone,Melão
 15/06/2019,Almoço,Frango Assado,PVT ao Molho de Dois Queijos,Quibebe de Abóbora,Iogurte,Banana
 17/06/2019,Almoço,Bife ao Molho Barbecue,Hambúrguer de PVT,Mandioca Sauté,Cocada,Melancia
 17/06/2019,Jantar,Fricassê de Frango,Omelete de Forno,Batata Palha,Pé de Moleque,Laranja
 18/06/2019,Almoço,Filé de Peixe à Portuguesa,Batatalhoada,Brócolis Refogado,Doce de Leite com Amendoim,Ponkan
 18/06/2019,Jantar,Bife ao Molho Especial,Canelone de PVT,Legumes Refogados,Flan com Calda,Caqui
-19/06/2019,Jantar,Bisteca Suína Acebolada,Abobrinha Recheada,Virado de Milho e Vagem,Sorvete,Maçã
 19/06/2019,Almoço,Filé de Coxa Assado,Ovo Frito,Polenta Mole,Mousse,Banana
+19/06/2019,Jantar,Bisteca Suína Acebolada,Abobrinha Recheada,Virado de Milho e Vagem,Sorvete,Maçã
 24/06/2019,Almoço,Bife ao Molho Especial,Bife de PVT,Polenta Recheada com Queijo,Sorvete,Ponkan
 24/06/2019,Jantar,Pernil Acebolado ao Molho de Abacaxi,Berinjela Recheada,Brócolis e Couve Flor Refogados,Pé de Moleque,Maçã
 25/06/2019,Almoço,Filé de Frango ao Molho de Ervas,Abobrinha Recheada,Cenoura Sauté,Canjica com Amendoim,Melão
@@ -1508,8 +1507,8 @@ date,mealType,main,vegetarian,side,dessert,fruit
 31/08/2019,Almoço,Escondidinho de Carne,Escondidinho de PVT,Couve Flor ao Alho,Iogurte,Banana
 02/09/2019,Almoço,Picadinho,PVT com Palmito e Cogumelo,Polenta Cremosa,Barra de Cereais,Laranja
 02/09/2019,Jantar,Frango Assado ao Molho de Laranja,Puchero Vegetariano,Macarrão Alho e Óleo,Doce de Leite,Melão
-03/09/2019,Jantar,Carne de Panela ao Molho Roty,Ovo Frito,Batata Rústica,Arroz Doce com Coco,Melancia
 03/09/2019,Almoço,Pernil ao Molho Barbecue,Ratatoulle,Couve Refogada,Sorvete,Banana
+03/09/2019,Jantar,Carne de Panela ao Molho Roty,Ovo Frito,Batata Rústica,Arroz Doce com Coco,Melancia
 04/09/2019,Almoço,Filé de Frango Acebolado,Batata Especial,Creme de Milho,Gelatina,Maçã
 04/09/2019,Jantar,Bife ao Molho Madeira,PVT Mexicano,Mandioca Sautê,Chocolate,Mamão
 05/09/2019,Almoço,Isca de Carne ao Molho Especial,Ovo Cozido,Batata Doce Corada,Iogurte,Melancia
